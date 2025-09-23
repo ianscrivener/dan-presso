@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ianscrivener.github.io/dan-presso/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/help/</loc>
+    <loc>https://ianscrivener.github.io/dan-presso/help/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ianscrivener.github.io/dan-presso/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ianscrivener.github.io/dan-presso/tags/</loc>
   </url>
 </urlset>
